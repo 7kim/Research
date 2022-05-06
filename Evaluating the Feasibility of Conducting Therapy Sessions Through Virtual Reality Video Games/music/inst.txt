@@ -1,0 +1,12 @@
+Welcome to the experiment 
+This experiment is about music effects on heart rate and emotions
+Kindly download Heart Rate Free application on your phone 
+Measure your heart rate when the music is playing and capture the screen
+Do that for every song
+then press 1 if you think its rock music
+press 2 if you think its classical music
+press 3 if you think its pop music
+
+Press as fast as possible as accurate as possible 
+
+Press Space bar to start
